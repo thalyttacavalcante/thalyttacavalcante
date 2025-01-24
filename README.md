@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Thalytta Cavalcante!</h1>
-<h3 align="center">Doutorando em Estatística e Cientista de dados, apaixonada por transformar dados complexos em informações úteis</h3>
+<h3 align="center">Doutorando em Estatística e Cientista de dados, apaixonada por transformar dados complexos em informações úteis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalyttacavalcante&label=Profile%20views&color=0e75b6&style=flat" alt="thalyttacavalcante" /> </p>
 
@@ -17,7 +17,6 @@
 
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/thalytta-cavalcante/](https://www.linkedin.com/in/thalytta-cavalcante/)
 
-- ⚡ Curiosidade sobre mim **adoro gatos, plantas e feirinhas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
