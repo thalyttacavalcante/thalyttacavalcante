@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 Atualmente sou **aluna/pesquisadora do Departamento de Estatística da UFPE**
-- 👯 Procuro colaborar em **projetos que envolvam análise de dados, modelagem estatística e machine learning**
+- :bar_chart: Procuro colaborar em **projetos que envolvam análise de dados, modelagem estatística e machine learning**
 - 💬 Me pergunte sobre **estatística, análise de sobrevivência, ciência de dados e tecnologia, ou se preferir, bora trocar ideia sobre qualquer outro assunto interessante (gosto de papear!)**
 
 <h3 align="left">Algumas Linguagens e Ferramentas:</h3>
