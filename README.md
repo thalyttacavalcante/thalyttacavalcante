@@ -5,7 +5,7 @@
 </em></p>
 
 
-[![Linkedin: thalyttacavalcante](https://img.shields.io/badge/-thalyttacavalcante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/https://www.linkedin.com/in/thalytta-cavalcante/)](https://linkedin.com/in/https://www.linkedin.com/in/thalytta-cavalcante/)
+[![Linkedin: thalyttacavalcante](https://img.shields.io/badge/-thalyttacavalcante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalytta-cavalcante/)](https://www.linkedin.com/in/thalytta-cavalcante/)
 [![GitHub Thalyttacavalcante](https://img.shields.io/github/followers/thalyttacavalcante?label=follow&style=social)](https://github.com/thalyttacavalcante)
 [![Gmail: thalyttacavalcante](https://img.shields.io/badge/-thalyttacavalcante@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thalyttacavalcante@gmail.com)](mailto:thalyttacavalcante@gmail.com)
 
