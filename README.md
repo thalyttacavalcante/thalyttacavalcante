@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Thalytta Cavalcante!</h1>
-<h3 align="center">Doutorando em Estatística e Cientista de dados, apaixonada por transformar dados complexos em informações úteis.</h3>
+<h3 align="center">Doutoranda em Estatística e Cientista de dados, apaixonada por transformar dados complexos em informações úteis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalyttacavalcante&label=Profile%20views&color=0e75b6&style=flat" alt="thalyttacavalcante" /> </p>
 
@@ -8,8 +8,6 @@
 - 🔭 Atualmente sou **aluna/pesquisadora do Departamento de Estatística da UFPE**
 - 👯 Procuro colaborar em **projetos que envolvam análise de dados, modelagem estatística e machine learning**
 - 💬 Me pergunte sobre **estatística, análise de sobrevivência, ciência de dados e tecnologia, ou se preferir, bora trocar ideia sobre qualquer outro assunto interessante (gosto de papear!)**
-- 📫 e-mail **thalyttacavalcante@gmail.com**
-- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/thalytta-cavalcante/](https://www.linkedin.com/in/thalytta-cavalcante/)
 
 <h3 align="left">Algumas Linguagens e Ferramentas:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
