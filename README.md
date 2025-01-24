@@ -13,7 +13,7 @@
 ```python
 thalytta = {
     "pronomes": ["ela", "dela"],
-    "linguagens": ["R", "python", "Ox", "SQL"],
+    "linguagens_programacao": ["R", "python", "Ox", "SQL"],
     "bibliotecas_framework": ["Numpy", "Pandas", "Matplotlib", "Seaborn", "Statsmodels", "Scikit-learn"]
 }
 ```
