@@ -1,6 +1,6 @@
 <h2> Olá, eu sou Thalytta Cavalcante! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Estatística pela <a href="https://portal.ufcg.edu.br/">Universidade Federal de Campina Grande</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"> 
-</br>Mestra e doutora em Estatística pela <a href="http://www.ufpe.br">Universidade Federal de Pernambuco</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20"> 
+<p><em>Estatística pela <a href="https://portal.ufcg.edu.br/">Universidade Federal de Campina Grande</a> 
+</br>Mestra e doutora em Estatística pela <a href="http://www.ufpe.br">Universidade Federal de Pernambuco</a> 
 </br>Estaticista e Cientista de Dados <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
 </em></p>
 
