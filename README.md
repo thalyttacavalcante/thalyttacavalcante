@@ -15,7 +15,7 @@ thalytta = {
     "linguagens_programacao": ["R", "python", "Ox", "SQL"],
     "bibliotecas_framework": ["Numpy", "Pandas", "Matplotlib", "Seaborn", "Statsmodels", "Scikit-learn"]
     "interesses": [
-        "gatos ronronando de buxinho pra cima",
+        "gatinhos ronronando de buxinho pra cima",
         "feirinhas de artesanato e comidinhas boas",
         "plantinhas felizes e bem cuidadas",
         "um suquinho geladinho natural",
